@@ -441,7 +441,7 @@ img{
 
 /* numbers */
 .numbers{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://i1.wp.com/shidarapress.com/wp-content/uploads/2019/03/pexels-photo-290595.jpeg?fit=1440%2C748&ssl=1);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/numbers-bcg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -462,7 +462,7 @@ img{
 
 /* testimonial */
 .testimonial{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNGvmTZ0de43MCT-QNYcy6KNZRF6Dnex9hg&usqp=CAU) center/cover fixed no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/testimonial-bcg.jpg) center/cover fixed no-repeat;
 }
 .testimonial-wrapper .item{
     padding: 1.5rem;
